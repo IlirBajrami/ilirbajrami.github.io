@@ -312,6 +312,14 @@ html.js,
 		width: auto;
 		margin-right: 5px;
 	}
+    
+    
+    .link--page {
+		overflow: hidden;
+		white-space: nowrap;
+		text-overflow: ellipsis;
+    }
+    
 	.pages-nav__item--social {
 		font-size: 0.9em;
 	}
